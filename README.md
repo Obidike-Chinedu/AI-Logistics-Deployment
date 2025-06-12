@@ -149,7 +149,7 @@ Public IP Address: http://34.244.29.218
 
 Below is a screenshot of the rendered app in the browser:
 
-![Deployed App] (./screenshot.png)
+![Deployed App](./screenshot.png)
 
 
 ## Notes:
