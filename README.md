@@ -156,3 +156,5 @@ Below is a screenshot of the rendered app in the browser:
 1. PM2 ensures the Node.js server is kept alive and restarted on reboot.
 2. Nginx acts as a reverse proxy between incoming traffic and the Node.js app.
 3. No domain/SSL was used for this submission due to unavailability of a free domain.
+
+Thank you!
